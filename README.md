@@ -13,6 +13,6 @@ Personal Portfolio Website
 ✔️ Contact Info
 
 
-###Preview - Home Page
+###Preview-Home Page
+![index](https://github.com/luisaM735/luisaM735.github.io/assets/135564937/2c99bf34-353e-4bd2-bdf1-a3e2839423d0)
 
-![PersonalPortfolio](https://github.com/luisaM735/luisaM735.github.io/assets/135564937/ffe76b08-b144-4f07-8260-8a5e9e3559c4)
