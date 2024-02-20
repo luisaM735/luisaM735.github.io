@@ -14,5 +14,5 @@ Personal Portfolio Website
 
 
 ###Preview - Home Page
-![Uploading PersonalPortfolio.gif…]()
 
+![PersonalPortfolio](https://github.com/luisaM735/luisaM735.github.io/assets/135564937/ffe76b08-b144-4f07-8260-8a5e9e3559c4)
