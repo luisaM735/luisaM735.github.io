@@ -12,7 +12,15 @@ Personal Portfolio Website
 ✔️ Resume\
 ✔️ Contact Info
 
+## Tools Used 🔨
+✔️Github pages
+✔️Raja Prerak: https://github.com/rajaprerak/rajaprerak.github.io
+
+
 
 ###Preview-Home Page
-![index](https://github.com/luisaM735/luisaM735.github.io/assets/135564937/2c99bf34-353e-4bd2-bdf1-a3e2839423d0)
+![Screenshot (196)](https://github.com/luisaM735/luisaM735.github.io/assets/135564937/2c02343a-46da-4f37-804b-20c33f3fc3df)
+
+
+
 
