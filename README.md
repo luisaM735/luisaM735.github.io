@@ -2,19 +2,19 @@ Personal Portfolio Website
 > https://luisam735.github.io/
 
 ## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+⚡ About\
+⚡ Interests\
+⚡ Education\
+⚡ Online Certification\
+⚡ Experience\
+⚡ Projects \
+⚡ Skills \
+⚡ Resume\
+⚡ Contact Info
 
 ## Tools Used 🔨
-✔️Github pages </br>
-✔️Raja Prerak: https://github.com/rajaprerak/rajaprerak.github.io
+⚡Github pages </br>
+⚡Raja Prerak: https://github.com/rajaprerak/rajaprerak.github.io
 
 
 
