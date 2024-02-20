@@ -13,12 +13,12 @@ Personal Portfolio Website
 ✔️ Contact Info
 
 ## Tools Used 🔨
-✔️Github pages
+✔️Github pages </br>
 ✔️Raja Prerak: https://github.com/rajaprerak/rajaprerak.github.io
 
 
 
-###Preview-Home Page
+### Preview-Home Page
 ![Screenshot (196)](https://github.com/luisaM735/luisaM735.github.io/assets/135564937/2c02343a-46da-4f37-804b-20c33f3fc3df)
 
 
